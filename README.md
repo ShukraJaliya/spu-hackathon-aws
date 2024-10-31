@@ -198,7 +198,7 @@ This project is tailored to help students and junior developers create an online
 
 ## 🚀 Deployment Instructions (Using Provided `.csv` Credentials)
 
-This guide provides step-by-step instructions for deploying your project to AWS using pre-configured `.csv` credentials. Make sure the `hackathon-user_accessKeys.csv` file is in the root directory to enable a seamless deployment process.
+This guide provides step-by-step instructions for deploying your project to AWS using pre-configured `.csv` credentials. Make sure the `access.csv` file is in the root directory to enable a seamless deployment process.
 
 ### Steps
 
