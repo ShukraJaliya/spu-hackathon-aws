@@ -1,7 +1,9 @@
 
 # 🚀 Student Developer Portfolio Project
 
-🎉 Welcome to your student/junior developer portfolio project, designed especially for showcasing your work at events, hackathons, or as an online resume! This project uses AWS CDK with TypeScript to make your portfolio easily deployable on AWS. NOTE 10/30: The provided AWS key has been deactivated, you will have to create your own (see [Optional: AWS Account Setup Instructions](#optional-aws-account-setup-instructions)).
+🎉 Welcome to your student/junior developer portfolio project, designed especially for showcasing your work at events, hackathons, or as an online resume! This project uses AWS CDK with TypeScript to make your portfolio easily deployable on AWS. 
+
+NOTE 10/30: The provided AWS key has been deactivated, you will have to create your own (see [Optional: AWS Account Setup Instructions](#optional-aws-account-setup-instructions)).
 
 ## 🎓 Project Description
 
