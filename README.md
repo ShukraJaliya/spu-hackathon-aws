@@ -188,9 +188,9 @@ This project is tailored to help students and junior developers create an online
 
 ### AWS Account Initialization
 1. To setup the account (needs only to be done once for the lifetime of the account)
-```bash
-aws bootstrap
-```
+   ```bash
+   aws bootstrap
+   ```
 
 ---
 
