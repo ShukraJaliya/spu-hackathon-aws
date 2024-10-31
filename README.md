@@ -186,6 +186,12 @@ This project is tailored to help students and junior developers create an online
    aws sts get-caller-identity
    ```
 
+### AWS Account Initialization
+1. To setup the account (needs only to be done once for the lifetime of the account)
+```bash
+aws bootstrap
+```
+
 ---
 
 ## 🚀 Deployment Instructions (Using Provided `.csv` Credentials)
