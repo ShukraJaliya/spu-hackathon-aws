@@ -1,7 +1,9 @@
 
 # 🚀 Student Developer Portfolio Project
 
-🎉 Welcome to your student/junior developer portfolio project, designed especially for showcasing your work at events, hackathons, or as an online resume! This project uses AWS CDK with TypeScript to make your portfolio easily deployable on AWS.
+🎉 Welcome to your student/junior developer portfolio project, designed especially for showcasing your work at events, hackathons, or as an online resume! This project uses AWS CDK with TypeScript to make your portfolio easily deployable on AWS. 
+
+NOTE 10/30: The provided AWS key has been deactivated, you will have to create your own (see [Optional: AWS Account Setup Instructions](#optional-aws-account-setup-instructions)).
 
 ## 🎓 Project Description
 
@@ -186,11 +188,17 @@ This project is tailored to help students and junior developers create an online
    aws sts get-caller-identity
    ```
 
+### AWS Account Initialization
+1. To setup the account (needs only to be done once for the lifetime of the account)
+   ```bash
+   aws bootstrap
+   ```
+
 ---
 
 ## 🚀 Deployment Instructions (Using Provided `.csv` Credentials)
 
-This guide provides step-by-step instructions for deploying your project to AWS using pre-configured `.csv` credentials. Make sure the `hackathon-user_accessKeys.csv` file is in the root directory to enable a seamless deployment process.
+This guide provides step-by-step instructions for deploying your project to AWS using pre-configured `.csv` credentials. Make sure the `access.csv` file is in the root directory to enable a seamless deployment process.
 
 ### Steps
 
